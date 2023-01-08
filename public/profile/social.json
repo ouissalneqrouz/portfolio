@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/ouissalneqrouz"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:ouissal.neqrouz@ump.ac.ma"
+        }
+    ]
+}

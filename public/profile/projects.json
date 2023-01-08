@@ -1,0 +1,71 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio.PNG",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ouissalneqrouz/portfolio.git"
+                }
+                
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/ToDoList.PNG",
+            "title": "To Do List",
+            "bodyText": "- Add tasks to list.\n - Cross off task when done.\n",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ouissalneqrouz/To-Do-List.git"
+                }
+            ],
+            "tags" : [
+                "Html",
+                "Css",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/SafetyIndicator.PNG",
+            "title": "Safety Indicator",
+            "bodyText": "- Website to record accidents within a factory .\n - Record accident information.\n -The level of severity",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ouissalneqrouz/Safety-Indicator.git"
+                }
+            ],
+            "tags" : [
+                "Html",
+                "Css",
+                "JavaScript",
+                "Php",
+                "SQL"
+            ]
+        },
+        {
+            "image" : "images/projects/book.PNG",
+            "title": "Book Application",
+            "bodyText": "- An Android App.\n - Facilitate the search for books using an API.\n - Uses **SQLite** database to store users information.\n ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ouissalneqrouz/Books-Application.git"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android",
+                "SQLite"
+            ]
+        }
+    ]
+}
